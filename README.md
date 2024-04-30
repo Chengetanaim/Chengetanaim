@@ -2,7 +2,7 @@
 
 - 🔭 Data Scientist / Web Developer 
 - 🌱 I implement machine learning algorithms and perform data anaylysis in Python, R, PowerBI and Excel
-- 👯 I’m also a backend web developer who mostly works in Python's back-end server side framework, Django and FastAPI
+- 👯 I’m also a backend web developer who mostly works in Python's back-end server side frameworks, Django and FastAPI
 - 🤔 Currently learning frontend development
 - ⚡ I learn daily
 
