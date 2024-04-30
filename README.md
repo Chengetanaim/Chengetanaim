@@ -1,8 +1,9 @@
 ### Hi there 👋
 
-- 🔭 I love working in Python 
-- 🌱 I implement machine learning algorithms and perform data anaylysis in Python, R and PowerBI
-- 👯 I’m also a backend web developer who mostly works in Python's back-end server side framework, Django 
+- 🔭 Data Scientist / Web Developer 
+- 🌱 I implement machine learning algorithms and perform data anaylysis in Python, R, PowerBI and Excel
+- 👯 I’m also a backend web developer who mostly works in Python's back-end server side framework, Django and FastAPI
+- 🤔 Currently learning frontend development
 - ⚡ I learn daily
 
 <!--
