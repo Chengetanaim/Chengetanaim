@@ -1,4 +1,4 @@
-# Hi, I'm Chengetai 👋
+# Hi, I'm Chengetanai 👋
 
 I'm a data scientist specialising in **machine learning for financial services** — credit risk, fraud detection, and customer analytics. I build Python-based models that help fintech companies and lenders turn raw data into decisions.
 
