@@ -1,15 +1,23 @@
-# Hi, I'm Chengetanai 👋
+# Hi, I'm Chengetanai 
 
-I'm a data scientist specialising in **machine learning for financial services** — credit risk, fraud detection, and customer analytics. I build Python-based models that help fintech companies and lenders turn raw data into decisions.
+I'm a data scientist and AI engineer specialising in **machine learning for financial services** and **LLM-powered applications**. I build Python-based systems that help fintech companies, lenders, and businesses turn raw data into decisions — and increasingly, into intelligent, conversational tools.
 
 ---
 
 ## What I work on
 
-- 🏦 **Credit risk modelling** — probability of default, scorecard development, risk tiering
-- 🔍 **Fraud detection** — anomaly detection, transaction classification, imbalanced learning
-- 📉 **Customer churn prediction** — behavioural analytics, survival analysis, retention strategy
-- 🐍 **Python data pipelines** — pandas, scikit-learn, XGBoost, feature engineering, model evaluation
+**Financial ML**
+- **Credit risk modelling** — probability of default, scorecard development, risk tiering
+- **Fraud detection** — anomaly detection, transaction classification, imbalanced learning
+- **Customer churn prediction** — behavioural analytics, survival analysis, retention strategy
+
+**LLM & AI Engineering**
+- **RAG systems** — document Q&A, knowledge-base chatbots, retrieval pipelines (LangChain, vector databases)
+- **AI agents** — tool-using assistants that reason, retrieve, and act on real data
+- **LLM application development** — chains, structured output, conversational memory
+
+**Foundations**
+- **Python data pipelines** — pandas, scikit-learn, XGBoost, feature engineering, model evaluation
 
 ---
 
@@ -20,6 +28,7 @@ I'm a data scientist specialising in **machine learning for financial services**
 | [Credit Risk Scorecard](https://github.com/Chengetanaim/credit-risk-scorecard) | End-to-end default prediction on 150k borrower records | AUC-ROC ~0.82 |
 | [Fraud Detection System](https://github.com/Chengetanaim/credit-risk-scorecard) | Transaction fraud classifier with imbalance handling | Coming soon |
 | [Customer Churn Model](https://github.com/Chengetanaim/credit-risk-scorecard) | Churn prediction with retention tier framework | Coming soon |
+| [Document Q&A Assistant](#) | RAG-powered chatbot that answers questions from a document knowledge base | Coming soon |
 
 ---
 
@@ -28,23 +37,25 @@ I'm a data scientist specialising in **machine learning for financial services**
 ```python
 languages  = ["Python", "SQL", "R"]
 ml         = ["scikit-learn", "XGBoost", "pandas", "numpy"]
+llm        = ["LangChain", "LangGraph", "Chroma", "RAG pipelines", "agents"]
 viz        = ["matplotlib", "seaborn", "Power BI"]
-tools      = ["Jupyter", "Git", "VS Code", "Excel", "Power BI"]
+tools      = ["Jupyter", "Git", "VS Code", "Excel", "Power BI", "Streamlit"]
 ```
 
 ---
 
 ## Currently
 
-- 🔭 Building a fintech ML portfolio — credit risk, fraud, churn
-- 🌱 Going deeper on model evaluation — ROC-AUC, SHAP, threshold optimisation
-- 💼 Available for freelance data science projects on [Upwork](https://www.upwork.com/freelancers/~01f5f370345c589a65)
+- Building a fintech ML portfolio — credit risk, fraud, churn
+- Building LLM/RAG applications — document Q&A, conversational agents
+- Going deeper on model evaluation — ROC-AUC, SHAP, threshold optimisation
+- Available for freelance data science and AI engineering projects on [Upwork](https://www.upwork.com/freelancers/~01f5f370345c589a65)
 
 ---
 
 ## Get in touch
 
-If you're working on a financial data problem and need a Python ML engineer, let's talk.
+If you're working on a financial data problem or need an AI/LLM-powered tool, let's talk.
 
 [![Upwork](https://img.shields.io/badge/Upwork-Available-brightgreen?style=flat&logo=upwork)](https://www.upwork.com/freelancers/~01f5f370345c589a65)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/chengetanai-mukanhairi-9a4452142)
