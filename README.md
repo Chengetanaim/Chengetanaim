@@ -1,6 +1,6 @@
 # Hi, I'm Chengetanai 
 
-I'm a data scientist and AI engineer specialising in **machine learning for financial services** and **LLM-powered applications**. I build Python-based systems that help fintech companies, lenders, and businesses turn raw data into decisions — and increasingly, into intelligent, conversational tools.
+I'm a data scientist and AI engineer specialising in machine learning for financial services and LLM-powered applications. I build Python-based systems that help fintech companies, lenders, and businesses turn raw data into decisions — and increasingly, into intelligent, conversational tools.
 
 ---
 
@@ -27,8 +27,8 @@ I'm a data scientist and AI engineer specialising in **machine learning for fina
 |---|---|---|
 | [Credit Risk Scorecard](https://github.com/Chengetanaim/credit-risk-scorecard) | End-to-end default prediction on 150k borrower records | AUC-ROC ~0.82 |
 | [Fraud Detection System](https://github.com/Chengetanaim/credit-risk-scorecard) | Transaction fraud classifier with imbalance handling | Coming soon |
-| [Customer Churn Model](https://github.com/Chengetanaim/credit-risk-scorecard) | Churn prediction with retention tier framework | Coming soon |
-| [Document Q&A Assistant](#) | RAG-powered chatbot that answers questions from a document knowledge base | Coming soon |
+| [Fintech Agent](https://github.com/Chengetanaim/Financial-Assistant-Backend) | AI agent that answers financial questions using live market data and calculation tools (stock prices, ROI, currency conversion) | Chains multiple tools autonomously (e.g. fetches live price, then computes ROI) without manual orchestration |
+| [Document Q&A Assistant](https://github.com/Chengetanaim/short-intense-movements-rag) | RAG-powered chatbot that answers questions from a document knowledge base | Deployed app with grounded, source-cited answers — correctly declines unanswerable questions |
 
 ---
 
