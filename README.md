@@ -27,8 +27,8 @@ I'm a data scientist and AI engineer specialising in machine learning for financ
 |---|---|---|
 | [Credit Risk Scorecard](https://github.com/Chengetanaim/credit-risk-scorecard) | End-to-end default prediction on 150k borrower records | AUC-ROC ~0.82 |
 | [Fraud Detection System](https://github.com/Chengetanaim/credit-risk-scorecard) | Transaction fraud classifier with imbalance handling | Coming soon |
-| [Fintech Agent](https://github.com/Chengetanaim/Financial-Assistant-Backend) | AI agent that answers financial questions using live market data and calculation tools (stock prices, ROI, currency conversion) | Chains multiple tools autonomously (e.g. fetches live price, then computes ROI) without manual orchestration |
-| [Document Q&A Assistant](https://github.com/Chengetanaim/short-intense-movements-rag) | RAG-powered chatbot that answers questions from a document knowledge base | Deployed app with grounded, source-cited answers — correctly declines unanswerable questions |
+| [Fintech Agent](https://github.com/Chengetanaim/Financial-Assistant-Backend) | AI agent that answers financial questions using live market data and calculation tools | Chains multiple tools autonomously e.g. fetches live price, then computes ROI, without manual orchestration |
+| [Document Q&A Assistant](https://github.com/Chengetanaim/short-intense-movements-rag) | RAG-powered chatbot that answers questions from a document knowledge base | Deployed app with grounded, source-cited answers. Correctly declines unanswerable questions |
 
 ---
 
@@ -37,9 +37,11 @@ I'm a data scientist and AI engineer specialising in machine learning for financ
 ```python
 languages  = ["Python", "SQL", "R"]
 ml         = ["scikit-learn", "XGBoost", "pandas", "numpy"]
-llm        = ["LangChain", "LangGraph", "Chroma", "RAG pipelines", "agents"]
+llm        = ["LangChain", "LangGraph", "Gemini", "Groq", "RAG pipelines", "agents", "tool-calling"]
+backend    = ["FastAPI", "Pydantic", "SQLAlchemy"]
+frontend   = ["React", "Vite"]
 viz        = ["matplotlib", "seaborn", "Power BI"]
-tools      = ["Jupyter", "Git", "VS Code", "Excel", "Power BI", "Streamlit"]
+tools      = ["Jupyter", "Git", "VS Code", "Excel", "Power BI", "Vercel"]
 ```
 
 ---
